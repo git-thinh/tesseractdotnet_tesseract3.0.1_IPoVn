@@ -1,6 +1,7 @@
 ﻿using IPoVn.IPCore;
 using OCR.TesseractWrapper;
 using System;
+using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
@@ -267,6 +268,92 @@ namespace IPoVn.OCRer
 
         static void Simple3_Recognize()
         {
+            int n_images = Images.Length;
+            int i_image = n_images - 1;
+            //i_image = 0;
+            i_image = 2;
+            string fileName = Images[i_image];
+
+            string imageFile = Path.Combine(InputFolder, fileName);
+
+            string language = "eng";
+            int oem = (int)eOcrEngineMode.OEM_DEFAULT;
+
+            string name = Path.GetFileNameWithoutExtension(imageFile);
+            {
+                using (Bitmap bmp = Bitmap.FromFile(imageFile) as Bitmap)
+                {
+                    using (GreyImage greyImage = GreyImage.FromImage(bmp))
+                    {
+
+                        ImageThresholder thresholder = new AdaptiveThresholder();
+                        using (BinaryImage binImage = thresholder.Threshold(greyImage))
+                        {
+                            DateTime started = DateTime.Now;
+                            DateTime ended = DateTime.Now;
+
+                            Rectangle[] rois = new Rectangle[] {
+                                Rectangle.FromLTRB(807, 43, 1351, 613),
+                                Rectangle.FromLTRB(4, 604, binImage.Width - 15, binImage.Height-35)
+                            };
+
+                            int nROIs = rois.Length;
+
+                            string[] texts = new string[nROIs];
+#if PARALLEL
+                            Parallel.For(0, nROIs, delegate(int iROI) 
+#else
+                            using (TesseractProcessor processor = new TesseractProcessor())
+                                for (int iROI = 0; iROI < nROIs; iROI++)
+#endif
+                                {
+#if PARALLEL
+                                using (TesseractProcessor processor = new TesseractProcessor())
+#endif
+                                    {
+                                        Rectangle roi = rois[iROI];
+                                        {
+                                            //oem = (int)eOcrEngineMode.OEM_TESSERACT_CUBE_COMBINED;
+                                            processor.Init(TessdataFolder, language, oem);
+                                            processor.UseROI = true;
+                                            processor.ROI = roi;
+                                            unsafe
+                                            {
+                                                texts[iROI] = processor.RecognizeBinaryImage(
+                                                   binImage.BinaryData, binImage.Width, binImage.Height);
+                                            }
+                                        }
+                                    }
+                                }
+#if PARALLEL
+                            );
+#endif
+
+                            ended = DateTime.Now;
+
+                            Console.WriteLine("Duration recognition: {0} ms\n\n", (ended - started).TotalMilliseconds);
+
+                            Console.WriteLine("Recognized Text:");
+                            for (int i = 0; i < nROIs; i++)
+                            {
+                                Console.WriteLine(texts[i]);
+                            }
+
+                            string txtFile = Path.Combine(
+                                OutputFolder, string.Format("Simple3_{0}.txt", name));
+                            using (StreamWriter writer = new StreamWriter(txtFile))
+                            {
+                                for (int i = 0; i < nROIs; i++)
+                                {
+                                    writer.WriteLine(texts[i]);
+                                    writer.WriteLine("\n\n");
+                                }
+                            }
+                            Process.Start(txtFile);
+                        }
+                    }
+                }
+            }
         }
 
 
@@ -276,9 +363,9 @@ namespace IPoVn.OCRer
             //Simple1_AnalyseLayout();
 
             //Simple2_Recognize();
-            Simple2_AnalyseLayout();
+            //Simple2_AnalyseLayout();
 
-            //Simple3_Recognize();
+            Simple3_Recognize();
 
             Console.Write("\n\n\nPress any key to exit...");
             Console.ReadKey();
