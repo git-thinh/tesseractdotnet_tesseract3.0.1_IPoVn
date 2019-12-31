@@ -20,7 +20,9 @@ namespace IPoVn.OCRer
     class Program
     {
         //const string TessdataFolder = @"C:\IPoVn\Test\tessdata\";
-        const string TessdataFolder = @"tessdata\";
+        //const string TessdataFolder = @"tessdata\";
+        const string TessdataFolder = @".\tessdata\";
+
         static string[] Images = new string[] {
             @"phototest.tif",
             @"eurotext.tif",
@@ -30,6 +32,31 @@ namespace IPoVn.OCRer
 
         const string InputFolder = "";
         const string OutputFolder = "_";
+
+        static void Simple_Recognize()
+        {
+            string imageFile = Images[0];
+
+            TesseractProcessor processor = new TesseractProcessor();
+
+            using (var bmp = Bitmap.FromFile(imageFile) as Bitmap)
+            {
+                var success = processor.Init(TessdataFolder, "eng", (int)eOcrEngineMode.OEM_DEFAULT);
+                if (!success)
+                {
+                    Console.WriteLine("Failed to initialize tesseract.");
+                }
+                else
+                {
+                    string text = processor.Recognize(bmp);
+                    Console.WriteLine("Text:");
+                    Console.WriteLine("*****************************");
+                    Console.WriteLine(text);
+                    Console.WriteLine("*****************************");
+                }
+            }
+
+        }
 
         static void Simple1_Recognize()
         {
@@ -359,13 +386,15 @@ namespace IPoVn.OCRer
 
         static void Main(string[] args)
         {
+            Simple_Recognize();
+
             //Simple1_Recognize();
             //Simple1_AnalyseLayout();
 
             //Simple2_Recognize();
             //Simple2_AnalyseLayout();
 
-            Simple3_Recognize();
+            //Simple3_Recognize();
 
             Console.Write("\n\n\nPress any key to exit...");
             Console.ReadKey();
