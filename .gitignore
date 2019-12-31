@@ -3,3 +3,10 @@ tesseractdotnetwrapper_r590/bin/Debug/IPoVnSystem.pdb
 *.pdb
 tesseractdotnetwrapper_r590/bin/Debug/IPoVnSystem.pdb
 tesseractdotnetwrapper_r590/IPoVn.OCRer/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/tesseractdotnetwrapper_r590/IPoVnSystem/obj
+/tesseractdotnetwrapper_r590/IPoVn.OCRer/obj
+/tesseractdotnetwrapper_r590/IPoVn.OCRer/.vs
+/tesseractdotnetwrapper_r590/IPoVn.OCRer/bin
+/tesseractdotnetwrapper_r590/debugx86/IPoVn.OCRer.pdb
+/tesseractdotnetwrapper_r590/debugx86/IPoVnSystem.pdb
+/tesseractdotnetwrapper_r590/bin
