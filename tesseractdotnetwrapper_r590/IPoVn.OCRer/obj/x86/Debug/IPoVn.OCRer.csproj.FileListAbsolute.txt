@@ -7,3 +7,10 @@ C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.exe
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.pdb
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.csprojAssemblyReference.cache
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\debugx86\IPoVn.OCRer.exe.config
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\debugx86\IPoVn.OCRer.exe
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\debugx86\IPoVn.OCRer.pdb
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.csprojAssemblyReference.cache
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.csproj.CopyComplete
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.exe
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVn.OCRer\obj\x86\Debug\IPoVn.OCRer.pdb

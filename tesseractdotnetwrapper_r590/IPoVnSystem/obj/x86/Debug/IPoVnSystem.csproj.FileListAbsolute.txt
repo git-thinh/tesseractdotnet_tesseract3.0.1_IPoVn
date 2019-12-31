@@ -3,3 +3,8 @@ C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\bin\Debug\IPoVnSyst
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\bin\Debug\IPoVnSystem.pdb
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVnSystem\obj\x86\Debug\IPoVnSystem.dll
 C:\Git\OCR\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\IPoVnSystem\obj\x86\Debug\IPoVnSystem.pdb
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\bin\Debug\IPoVnSystem.dll.config
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\bin\Debug\IPoVnSystem.dll
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\bin\Debug\IPoVnSystem.pdb
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVnSystem\obj\x86\Debug\IPoVnSystem.dll
+C:\Git\OCR\tesseractdotnet_tesseract3.0.1_IPoVn\tesseractdotnetwrapper_r590\IPoVnSystem\obj\x86\Debug\IPoVnSystem.pdb

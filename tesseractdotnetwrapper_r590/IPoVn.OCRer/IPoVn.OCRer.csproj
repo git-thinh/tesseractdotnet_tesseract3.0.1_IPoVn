@@ -74,11 +74,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Render.cs" />
-    <Compile Include="Simple1.cs" />
-    <Compile Include="Simple2.cs" />
-    <Compile Include="Simple3.cs" />
-    <Compile Include="Simple4.cs" />
-    <Compile Include="Workspace.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
