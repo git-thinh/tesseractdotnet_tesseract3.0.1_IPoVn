@@ -1,0 +1,648 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/clr:oldSyntax'
+  stdafx.cpp
+cl : Command line warning D9002: ignoring unknown option '/clr:oldSyntax'
+  AdaptiveThresholder.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(25): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(27): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(27): error C2059: syntax error: 'function-style cast'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(28): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(28): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(34): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(35): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\AdaptiveThresholder.h(35): error C2447: '{': missing function header (old-style formal list?)
+AdaptiveThresholder.cpp(23): error C2871: 'System': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2653: 'System': is not a class or namespace name
+AdaptiveThresholder.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+AdaptiveThresholder.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+AdaptiveThresholder.cpp(25): error C2871: 'IPoVnSystem': a namespace with this name does not exist
+AdaptiveThresholder.cpp(27): error C2653: 'AdaptiveThresholder': is not a class or namespace name
+AdaptiveThresholder.cpp(28): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+AdaptiveThresholder.cpp(29): error C2065: '_kWidth': undeclared identifier
+AdaptiveThresholder.cpp(30): error C2065: '_kHeight': undeclared identifier
+AdaptiveThresholder.cpp(30): fatal error C1003: error count exceeds 100; stopping compilation
+  BinaryImage.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+BinaryImage.cpp(23): error C2871: 'System': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2653: 'System': is not a class or namespace name
+BinaryImage.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+BinaryImage.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+BinaryImage.cpp(25): error C2653: 'BinaryImage': is not a class or namespace name
+BinaryImage.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+BinaryImage.cpp(27): warning C4508: 'IPoVn::IPCore::BinaryImage': function should return a value; 'void' return type assumed
+BinaryImage.cpp(29): error C2653: 'BinaryImage': is not a class or namespace name
+BinaryImage.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+BinaryImage.cpp(30): error C2084: function 'int IPoVn::IPCore::BinaryImage(void)' already has a body
+  BinaryImage.cpp(25): note: see previous definition of 'BinaryImage'
+  GenericImageIO.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(23): error C2871: 'System': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2653: 'System': is not a class or namespace name
+GenericImageIO.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+GenericImageIO.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+GenericImageIO.cpp(26): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GenericImageIO.cpp(28): warning C4508: 'IPoVn::IPCore::GenericImageIO': function should return a value; 'void' return type assumed
+GenericImageIO.cpp(30): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(31): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GenericImageIO.cpp(31): error C2084: function 'int IPoVn::IPCore::GenericImageIO(void)' already has a body
+  GenericImageIO.cpp(26): note: see previous definition of 'GenericImageIO'
+GenericImageIO.cpp(34): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(35): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(35): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(35): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(35): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(35): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(35): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(36): error C2062: type 'int' unexpected
+GenericImageIO.cpp(37): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(37): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(68): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(69): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(69): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(69): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(69): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(69): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(69): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(70): error C2062: type 'int' unexpected
+GenericImageIO.cpp(71): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(71): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(111): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(112): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(112): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(112): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(112): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(112): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(112): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(113): error C2062: type 'int' unexpected
+GenericImageIO.cpp(114): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(114): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(144): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(145): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(145): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(145): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(145): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(145): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(145): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(146): error C2062: type 'int' unexpected
+GenericImageIO.cpp(147): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(147): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(177): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(178): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(178): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(178): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(178): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(178): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(178): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(179): error C2062: type 'int' unexpected
+GenericImageIO.cpp(180): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(180): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(210): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(211): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(211): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(211): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(211): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(211): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(211): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(212): error C2062: type 'int' unexpected
+GenericImageIO.cpp(213): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(213): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(218): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(219): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(219): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(219): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(219): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(219): error C2065: 'mapColors': undeclared identifier
+GenericImageIO.cpp(219): error C2275: 'ushort': illegal use of this type as an expression
+  c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\Configuration.h(46): note: see declaration of 'ushort'
+GenericImageIO.cpp(220): error C2062: type 'int' unexpected
+GenericImageIO.cpp(221): error C2143: syntax error: missing ';' before '{'
+GenericImageIO.cpp(221): error C2447: '{': missing function header (old-style formal list?)
+GenericImageIO.cpp(251): error C2653: 'GenericImageIO': is not a class or namespace name
+GenericImageIO.cpp(252): error C2065: 'Bitmap': undeclared identifier
+GenericImageIO.cpp(252): error C2065: 'bitmap': undeclared identifier
+GenericImageIO.cpp(252): error C2065: 'BitmapData': undeclared identifier
+GenericImageIO.cpp(252): error C2065: 'bitmapData': undeclared identifier
+GenericImageIO.cpp(252): fatal error C1003: error count exceeds 100; stopping compilation
+  GreyImage.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+GreyImage.cpp(23): error C2871: 'System': a namespace with this name does not exist
+GreyImage.cpp(23): error C2653: 'System': is not a class or namespace name
+GreyImage.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+GreyImage.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+GreyImage.cpp(25): error C2653: 'GreyImage': is not a class or namespace name
+GreyImage.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GreyImage.cpp(27): warning C4508: 'IPoVn::IPCore::GreyImage': function should return a value; 'void' return type assumed
+GreyImage.cpp(29): error C2653: 'GreyImage': is not a class or namespace name
+GreyImage.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GreyImage.cpp(30): error C2084: function 'int IPoVn::IPCore::GreyImage(void)' already has a body
+  GreyImage.cpp(25): note: see previous definition of 'GreyImage'
+GreyImage.cpp(33): error C2143: syntax error: missing ';' before '*'
+GreyImage.cpp(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GreyImage.cpp(33): error C2365: 'IPoVn::IPCore::GreyImage': redefinition; previous definition was 'function'
+  GreyImage.cpp(29): note: see declaration of 'IPoVn::IPCore::GreyImage'
+GreyImage.cpp(33): error C2653: 'GreyImage': is not a class or namespace name
+GreyImage.cpp(33): error C2065: 'String': undeclared identifier
+GreyImage.cpp(33): error C2065: 'filePath': undeclared identifier
+GreyImage.cpp(34): error C2448: 'IPoVn::IPCore::FromFile': function-style initializer appears to be a function definition
+GreyImage.cpp(54): error C2143: syntax error: missing ';' before '*'
+GreyImage.cpp(54): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+GreyImage.cpp(54): error C2365: 'IPoVn::IPCore::GreyImage': redefinition; previous definition was 'function'
+  GreyImage.cpp(29): note: see declaration of 'IPoVn::IPCore::GreyImage'
+GreyImage.cpp(54): error C2653: 'GreyImage': is not a class or namespace name
+GreyImage.cpp(54): error C2653: 'System': is not a class or namespace name
+GreyImage.cpp(54): error C2065: 'Bitmap': undeclared identifier
+GreyImage.cpp(54): error C2065: 'bitmap': undeclared identifier
+GreyImage.cpp(55): error C2448: 'IPoVn::IPCore::FromImage': function-style initializer appears to be a function definition
+  ImageBase.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+ImageBase.cpp(22): error C2871: 'System': a namespace with this name does not exist
+ImageBase.cpp(22): error C2653: 'System': is not a class or namespace name
+ImageBase.cpp(22): error C2871: 'IO': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Text': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Collections': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Generic': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Drawing': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Drawing2D': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'Imaging': a namespace with this name does not exist
+ImageBase.cpp(22): error C2871: 'InteropServices': a namespace with this name does not exist
+  ImageThresholder.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2447: '{': missing function header (old-style formal list?)
+ImageThresholder.cpp(23): error C2871: 'System': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2653: 'System': is not a class or namespace name
+ImageThresholder.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+ImageThresholder.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+ImageThresholder.cpp(25): error C2653: 'ImageThresholder': is not a class or namespace name
+ImageThresholder.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+ImageThresholder.cpp(27): warning C4508: 'IPoVn::IPCore::ImageThresholder': function should return a value; 'void' return type assumed
+ImageThresholder.cpp(29): error C2653: 'ImageThresholder': is not a class or namespace name
+ImageThresholder.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+ImageThresholder.cpp(30): error C2084: function 'int IPoVn::IPCore::ImageThresholder(void)' already has a body
+  ImageThresholder.cpp(25): note: see previous definition of 'ImageThresholder'
+ImageThresholder.cpp(33): error C2143: syntax error: missing ';' before '*'
+ImageThresholder.cpp(33): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+ImageThresholder.cpp(33): error C2653: 'ImageThresholder': is not a class or namespace name
+ImageThresholder.cpp(33): error C2065: 'GreyImage': undeclared identifier
+ImageThresholder.cpp(33): error C2065: 'image': undeclared identifier
+ImageThresholder.cpp(34): error C2448: 'IPoVn::IPCore::Threshold': function-style initializer appears to be a function definition
+  RGBImage.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(23): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(24): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\RGBImage.h(24): error C2447: '{': missing function header (old-style formal list?)
+RGBImage.cpp(23): error C2871: 'System': a namespace with this name does not exist
+RGBImage.cpp(23): error C2653: 'System': is not a class or namespace name
+RGBImage.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+RGBImage.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+RGBImage.cpp(25): error C2653: 'RGBImage': is not a class or namespace name
+RGBImage.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+RGBImage.cpp(27): warning C4508: 'IPoVn::IPCore::RGBImage': function should return a value; 'void' return type assumed
+RGBImage.cpp(29): error C2653: 'RGBImage': is not a class or namespace name
+RGBImage.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+RGBImage.cpp(30): error C2084: function 'int IPoVn::IPCore::RGBImage(void)' already has a body
+  RGBImage.cpp(25): note: see previous definition of 'RGBImage'
+  StaticThresholder.cpp
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C3381: 'IPoVn::IPCore::ImageBase': assembly access specifiers are only available in code compiled with a /clr option
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C2143: syntax error: missing ';' before '<class-head>'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(24): error C2504: 'IDisposable': base class undefined
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(32): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C2144: syntax error: 'int' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(37): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C2144: syntax error: 'void' should be preceded by ';'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(42): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2653: 'Imaging': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageBase.h(83): error C2061: syntax error: identifier 'ImageFormat'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(21): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(24): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GenericImageIO.h(25): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\GreyImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\BinaryImage.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(24): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(26): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\ImageThresholder.h(27): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'System': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2653: 'System': is not a class or namespace name
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'IO': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Text': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Collections': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Generic': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Drawing': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Drawing2D': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'Imaging': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(25): error C2871: 'InteropServices': a namespace with this name does not exist
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(27): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(27): error C2059: syntax error: 'function-style cast'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(28): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(28): error C2447: '{': missing function header (old-style formal list?)
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(35): error C2059: syntax error: 'public'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(36): error C2143: syntax error: missing ';' before '{'
+c:\f88\ocr\ocr___tesseractdotnet\tesseractdotnetwrapper_r590\20110704\ipovnocrer\ipovn\ipovn.ipcore\StaticThresholder.h(36): error C2447: '{': missing function header (old-style formal list?)
+StaticThresholder.cpp(23): error C2871: 'System': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2653: 'System': is not a class or namespace name
+StaticThresholder.cpp(23): error C2871: 'IO': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Text': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Collections': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Generic': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Drawing': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Drawing2D': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'Imaging': a namespace with this name does not exist
+StaticThresholder.cpp(23): error C2871: 'InteropServices': a namespace with this name does not exist
+StaticThresholder.cpp(25): error C2653: 'StaticThresholder': is not a class or namespace name
+StaticThresholder.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+StaticThresholder.cpp(27): warning C4508: 'IPoVn::IPCore::StaticThresholder': function should return a value; 'void' return type assumed
+StaticThresholder.cpp(29): error C2653: 'StaticThresholder': is not a class or namespace name
+StaticThresholder.cpp(30): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+StaticThresholder.cpp(30): error C2084: function 'int IPoVn::IPCore::StaticThresholder(void)' already has a body
+  StaticThresholder.cpp(25): note: see previous definition of 'StaticThresholder'
+StaticThresholder.cpp(33): error C2143: syntax error: missing ';' before '*'
+StaticThresholder.cpp(33): fatal error C1003: error count exceeds 100; stopping compilation
+  Generating Code...

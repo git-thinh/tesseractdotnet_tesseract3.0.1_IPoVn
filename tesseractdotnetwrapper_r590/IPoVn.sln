@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPoVn.OCRer", "IPoVn.OCRer\IPoVn.OCRer.csproj", "{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPoVnSystem", "IPoVnSystem\IPoVnSystem.csproj", "{09B51669-CB91-4050-9350-90ACD4AC8A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug IPoVn|Any CPU = Debug IPoVn|Any CPU
+		Debug IPoVn|x86 = Debug IPoVn|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release Tesseract|Any CPU = Release Tesseract|Any CPU
+		Release Tesseract|x86 = Release Tesseract|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug IPoVn|Any CPU.ActiveCfg = Debug|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug IPoVn|Any CPU.Build.0 = Debug|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug IPoVn|x86.ActiveCfg = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug IPoVn|x86.Build.0 = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug|Any CPU.Build.0 = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug|x86.ActiveCfg = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Debug|x86.Build.0 = Debug|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release Tesseract|Any CPU.ActiveCfg = Release|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release Tesseract|Any CPU.Build.0 = Release|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release Tesseract|x86.ActiveCfg = Release|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release Tesseract|x86.Build.0 = Release|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release|x86.ActiveCfg = Release|x86
+		{348F7332-AF08-4CE0-B2DD-BA8706CDFF55}.Release|x86.Build.0 = Release|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug IPoVn|Any CPU.ActiveCfg = Debug IPoVn|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug IPoVn|x86.ActiveCfg = Debug IPoVn|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug IPoVn|x86.Build.0 = Debug IPoVn|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug|x86.ActiveCfg = Debug|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Debug|x86.Build.0 = Debug|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release Tesseract|Any CPU.ActiveCfg = Release Tesseract|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release Tesseract|x86.ActiveCfg = Release Tesseract|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release Tesseract|x86.Build.0 = Release Tesseract|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release|Any CPU.ActiveCfg = Release|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release|x86.ActiveCfg = Release|x86
+		{09B51669-CB91-4050-9350-90ACD4AC8A0F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A319911-6171-4408-9725-7C5E1EC0E303}
+	EndGlobalSection
+EndGlobal

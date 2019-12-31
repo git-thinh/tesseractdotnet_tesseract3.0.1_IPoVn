@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ImageIO">
+      <UniqueIdentifier>{673374b8-c667-48c4-9ef9-a2dbc1f57b06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{b095fee5-8cc8-4bd5-831d-1afd984d668e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageProcessing">
+      <UniqueIdentifier>{a5047123-4598-4d08-bed3-0f06457e0791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImageProcessing\Thresholding">
+      <UniqueIdentifier>{51dd0cb2-372b-4b52-b218-1718f97a68ba}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GenericImageIO.cpp">
+      <Filter>ImageIO</Filter>
+    </ClCompile>
+    <ClCompile Include="BinaryImage.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="GreyImage.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageBase.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="RGBImage.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="AdaptiveThresholder.cpp">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageThresholder.cpp">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticThresholder.cpp">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GenericImageIO.h">
+      <Filter>ImageIO</Filter>
+    </ClInclude>
+    <ClInclude Include="BinaryImage.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="GreyImage.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageBase.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="RGBImage.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="AdaptiveThresholder.h">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageThresholder.h">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticThresholder.h">
+      <Filter>ImageProcessing\Thresholding</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
