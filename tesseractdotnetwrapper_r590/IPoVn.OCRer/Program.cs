@@ -6,8 +6,19 @@ using System.Reflection;
 
 namespace IPoVn.OCRer
 {
+    public enum OCR_ENGINE_MODE
+    {
+        OEM_TESSERACT_ONLY = 0,
+        OEM_CUBE_ONLY = 1,
+        OEM_TESSERACT_CUBE_COMBINED = 2,
+        OEM_DEFAULT = 3
+    }
+
     class Program
     {
+        //const string path_tessdata = @"C:\IPoVn\Test\tessdata\";
+        const string path_tessdata = @"tessdata\";
+
         const string OutputFolder = "_";
         static string[] Images = new string[] {
             @"phototest.tif",
@@ -20,7 +31,6 @@ namespace IPoVn.OCRer
         {
             using (TesseractProcessor processor = new TesseractProcessor())
             {
-
                 using (Bitmap bmp = Bitmap.FromFile("phototest.tif") as Bitmap)
                 {
                     DateTime started = DateTime.Now;
@@ -31,8 +41,7 @@ namespace IPoVn.OCRer
                     //for (int i = 3; i < 4; i++)
                     {
                         oem = i;
-                        bool ok = processor.Init(@"tessdata\", "eng", i);
-                        //bool ok = processor.Init(@"C:\IPoVn\Test\tessdata\", "eng", i);
+                        bool ok = processor.Init(path_tessdata, "eng", i); 
                         if (ok)
                         {
                             string text = "";
@@ -58,7 +67,9 @@ namespace IPoVn.OCRer
                 }
             }
         }
-        static void Simple1_AnalyseLayout() {
+
+        static void Simple1_AnalyseLayout()
+        {
             int n_images = Images.Length;
             int i_image = 0;
             for (; i_image < n_images; i_image++)
@@ -132,12 +143,12 @@ namespace IPoVn.OCRer
 
         static void Main(string[] args)
         {
-            Simple1_Recognize();
-            //Simple1_AnalyseLayout();
-             
+            //Simple1_Recognize();
+            Simple1_AnalyseLayout();
+
             //Simple2_Recognize();
             //Simple2_AnalyseLayout();
-             
+
             //Simple3_Recognize();
 
             Console.Write("\n\n\nPress any key to exit...");
